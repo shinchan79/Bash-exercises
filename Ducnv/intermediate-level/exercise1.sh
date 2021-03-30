@@ -5,7 +5,7 @@ echo -e "Enter the number of row: \c "
 read NR
 
 typeset -A arr
-#declare -a arr
+
 
 for i in `seq 0 $NR`;do
  arr[$i,0]=1
