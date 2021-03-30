@@ -36,7 +36,7 @@ ERROR: <dir3> does not exit, skipping...
 Everything is fine in <dir4>: 50
 ```
 
-# Exercise D: Health information report
+# Exercise C: Health information report
 Write a script ```info.sh``` to make a report contains health information of a person
 
 ### Example output:
