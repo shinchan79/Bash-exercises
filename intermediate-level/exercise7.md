@@ -15,7 +15,7 @@ Write a script, school.sh, that finds the average TotalAssessedValue for propert
 
 
 ## Hint:
-1)
+1) Hint for task 1: 
 - Use cat to write Property_Tax_Roll.csv to stdout. (Or, to work with small input while debugging, use head to write only the first few lines.)
 - Use grep to select only those lines containing "MADISON SCHOOLS"
 - Use awk to sum the TotalAssessedValue (7th) column while also counting the number of terms in the sum; report the sum over the number of terms. Note that the required
