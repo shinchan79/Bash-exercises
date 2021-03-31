@@ -66,7 +66,7 @@ Your health infomation:
 ```
 Note: 
 - You should continue to print Enter your weight/Enter your height until user enter valid value
-- If you ask "Do you want to re-create health information report? (Y/N)", the acceptable value is Y, y, yes, YES. N or any other output will terminate the program:
+- If you ask "Do you want to re-create health information report? (Y/N)", the acceptable value is Y, y, yes, YES. N or any other input will terminate the program:
 ```
 Do you want to re-create health information report? (Y/N) n
 
